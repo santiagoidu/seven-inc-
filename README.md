@@ -1,5 +1,8 @@
 <p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo_text.svg" width="320" alt="Nest Logo" /></a>
+ <img src="./.github/pic1.jpg" width="400" alt="pic1" /></a>
+ <img src="./.github/pic2.jpg" width="400" alt="pic2" /></a>
+ <img src="./.github/pic3.jpg" width="400" alt="pic3" /></a>
+ <img src="./.github/pic4.jpg" width="400" alt="pic4" /></a>
 </p>
 
 [travis-image]: https://api.travis-ci.org/nestjs/nest.svg?branch=master
